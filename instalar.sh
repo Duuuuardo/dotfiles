@@ -14,7 +14,7 @@ echo "instalando temas"
 sudo mv Dracula /usr/share/themes/
 gsettings set org.gnome.desktop.interface gtk-theme "Dracula"
 gsettings set org.gnome.desktop.wm.preferences theme "Dracula"
-mv Dracula /usr/share/icons/
+sudo mv Dracula /usr/share/icons/
 gsettings set org.gnome.desktop.interface icon-theme "Dracula"
 
 
