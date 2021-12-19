@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "Api",
+			"path": "~/Development/Projects/Mitsy/Api"
+		},
+		{
+			"name": "PaymentGateway",
+			"path": "~/Development/Projects/Mitsy/Payments"
+		},
+		{
+			"name": "Webite",
+			"path": "~/Development/Projects/Mitsy/Webite"
+		},
+		{
+			"name": "ImageServer",
+			"path": "~/Development/Projects/Mitsy/ImageServer"
+		},
+		{
+			"name": "Helper",
+			"path": "~/Development/Projects/Mitsy/Helper"
+		},
+		{
+			"name": "Bot",
+			"path": "~/Development/Projects/Mitsy/Bot"
+		},
+		{
+			"name": "Cdn",
+			"path": "~/Development/Projects/Mitsy/Cdn"
+		},
+		{
+      "name": "TradingView"
+			"path": "~/Development/Projects/Mitsy/TradingView"
+		}
+	],
+	"settings": {
+	}
+}
