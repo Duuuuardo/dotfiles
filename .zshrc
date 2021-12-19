@@ -137,4 +137,4 @@ alias commit="git cz"
 # Open .zshrc in VSCode
 alias zshconfig="code ~/.zshrc"
 
-alias mitsy="code -r ~/Development/mitsy-development.code-workspace"
+alias mitsy="code -r ~/Development/Projects/Mitsy/mitsy-development.code-workspace"
