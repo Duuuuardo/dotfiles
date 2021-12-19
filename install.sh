@@ -34,8 +34,8 @@ bash ./scripts/preferences.sh
 
 # Criar diretorio de desenvolvimento
 this_header "Criando diretorio de desenvolvimento na home do usuario."
-mkdir ${HOME}/Development
-mkdir ${HOME}/Development/Projects/
+mkdir ${HOME}/Development/Projects/Mitsy
+mv -i --reply=no ./mitsy-workspace.code-workspace/ ${HOME}/Development/Projects/Mitsy/
 
 # Limpar cache dos downloads
 this_header "Removendo sucata."
