@@ -37,6 +37,7 @@ yay -Sy docker
 yay -Sy docker-compose
 yay -S python-pip
 yay -Sy npm
+yay -Sy gitkraken
 yay -Sy nvm
 yay -Sy tilix
 yay -Sy zeal
