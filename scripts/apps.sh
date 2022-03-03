@@ -83,6 +83,9 @@ yay -Sy unrar
 yay -Sy unzip
 yay -Sy wget
 yay -Sy zip
+yay -Sy todoist
+yay -Sy authy
+yay -Sy bitwarden
 
 # Performance
 yay -Sy preload
