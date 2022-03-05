@@ -92,16 +92,6 @@ yay -Sy preload
 sudo systemctl enable preload
 sudo systemctl start preload
 
-# Themes
-yay -Sy adapta-gtk-theme
-yay -Sy breeze-adapta-cursor-theme-git
-yay -Sy paper-icon-theme-git
-yay -Sy suru-plus-pack-git
-yay -Sy xcursor-breeze
-yay -Sy yaru-gnome-shell-theme
-yay -Sy yaru-gtk-theme
-yay -Sy yaru-icon-theme
-
 # Security
 yay -Sy gufw
 sudo ufw enable
