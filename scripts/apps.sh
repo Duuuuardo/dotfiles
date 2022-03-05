@@ -28,7 +28,7 @@ sudo systemctl enable sshd
 sudo systemctl start sshd
 
 # Developer
-yay -Sy code
+yay -Sy visual-studio-code-bin
 yay -Sy nodejs-lts-gallium
 yay -Sy jdk-openjdk
 yay -Sy python
