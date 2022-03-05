@@ -28,10 +28,6 @@ bash ./scripts/dotfiles.sh
 this_header "Instalando dependencias com npm..."
 bash ./scripts/npm.sh
 
-# Configurar o gnome shell
-this_header "Configurando preferencias do gnome shell..."
-bash ./scripts/preferences.sh
-
 # Criar diretorio de desenvolvimento
 this_header "Criando diretorio de desenvolvimento na home do usuario."
 mkdir ${HOME}/Development/Projects/Mitsy
